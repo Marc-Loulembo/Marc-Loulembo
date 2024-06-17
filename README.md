@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on **App-Events**
 
 - 🌱 I’m currently learning **Java**
-
+  
 - 📫 How to reach me **marc.loulembo@coda-school.student**
 
 ### Blogs posts
